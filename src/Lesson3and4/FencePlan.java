@@ -43,11 +43,9 @@ public class FencePlan {
             coords[i][1] = sc.nextInt();
         }
 
-        ArrayList<Integer>[] adjacencylist = new ArrayList[];
         ArrayList<int[]> relationships = new ArrayList<>();
 
         for (int i = 0; i < m; i++) {
-            adjacencylist[sc.nextInt()].add(sc.nextInt());
         }
 
         int[] visited = new int[n];
