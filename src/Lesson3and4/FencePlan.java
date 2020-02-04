@@ -39,7 +39,7 @@ public class FencePlan {
         int[][] coords = new int[n][2];
 
         for (int i = 0; i < n; i++) {
-            coords[i][0] = sc.nextInt();
+            coords[i   ][0] = sc.nextInt();
             coords[i][1] = sc.nextInt();
         }
 
