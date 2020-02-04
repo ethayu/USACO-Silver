@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5dbc58e-76cd-4e3a-97af-6d0f0a592d56" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/piggyback.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/piggyback.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5and6/PiggyBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5and6/QueuePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5and6/StackPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO_Silver/Lesson3and4/FencePlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO_Silver/Lesson3and4/FencePlan.class" afterDir="false" />
+>>>>>>> a509ad43e223bdc87b67ba5c65107c4085bea613
       <change beforePath="$PROJECT_DIR$/src/Lesson3and4/FencePlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3and4/FencePlan.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,28 +31,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WaxmWJ6u8bJeWyznVVyHesCVQ9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+=======
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+>>>>>>> a509ad43e223bdc87b67ba5c65107c4085bea613
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.FencePlan">
+  <component name="RunManager" selected="Application.PiggyBack">
     <configuration name="CowArt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3and4.CowArt" />
       <module name="USACO_Silver" />
@@ -83,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HopScotch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1and2.HopScotch" />
+    <configuration name="PiggyBack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5and6.PiggyBack" />
       <module name="USACO_Silver" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson1and2.*" />
+          <option name="PATTERN" value="Lesson5and6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MeetingTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1and2.MeetingTime" />
+    <configuration name="StackPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5and6.StackPractice" />
       <module name="USACO_Silver" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson1and2.*" />
+          <option name="PATTERN" value="Lesson5and6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,13 +120,25 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PiggyBack" />
+        <item itemvalue="Application.StackPractice" />
         <item itemvalue="Application.FencePlan" />
         <item itemvalue="Application.CowArt" />
         <item itemvalue="Application.FloodfillPractice1" />
-        <item itemvalue="Application.HopScotch" />
-        <item itemvalue="Application.MeetingTime" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -129,7 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579401665208</updated>
+<<<<<<< HEAD
       <workItem from="1579401669480" duration="37696000" />
+=======
+      <workItem from="1579401669480" duration="36620000" />
+      <workItem from="1580610105191" duration="8077000" />
+>>>>>>> a509ad43e223bdc87b67ba5c65107c4085bea613
     </task>
     <servers />
   </component>
@@ -141,11 +167,47 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580608858313">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="528" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1580608858313" />
+    <state width="1638" height="281" key="GridCell.Tab.0.bottom" timestamp="1580621910504">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580621910504" />
+    <state width="1638" height="281" key="GridCell.Tab.0.center" timestamp="1580621910504">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580621910504" />
+    <state width="1638" height="281" key="GridCell.Tab.0.left" timestamp="1580621910503">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580621910503" />
+    <state width="1638" height="281" key="GridCell.Tab.0.right" timestamp="1580621910504">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580621910504" />
+    <state x="349" y="155" key="SettingsEditor" timestamp="1580611703283">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="155" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1580611703283" />
+    <state x="349" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1580610450601" />
+    <state x="504" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1580610265725">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="504" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1580610265725" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -165,7 +227,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Lesson3and4/FencePlan.java</url>
-          <line>63</line>
+          <line>61</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
